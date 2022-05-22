@@ -1,0 +1,2 @@
+# tarea2
+Es un programa que calcula e imprime la factura de una compañía de telefonía celular.  El programa debe de pedir que escriba un número de cuenta, un código de servicio y el número de minutos de uso del servicio. El programa debe de imprimir el número de cuenta, tipo de servicio, número de minutos de uso del servicio telefónico y monto a pagar por el usuario. En cuanto el servicio premium, el programa debe de imprimir el número de cuenta, tipo de servicio, número de minutos de uso telefónico y monto a pagar por el usuario.
